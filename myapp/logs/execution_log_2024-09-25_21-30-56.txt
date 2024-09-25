@@ -1,0 +1,2 @@
+2024-09-25 21:30:56,856 - INFO - Using OpenAI API Key: sk-pr***
+2024-09-25 21:30:56,886 - ERROR - An error occurred while initiating the chat: EOF when reading a line

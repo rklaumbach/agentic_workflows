@@ -1,0 +1,7 @@
+2024-09-25 20:56:22,524 - INFO - Using OpenAI API Key: sk-pr***
+2024-09-25 20:56:22,539 - WARNING - The API key specified is not a valid OpenAI format; it won't work with the OpenAI-hosted model.
+2024-09-25 20:56:22,554 - WARNING - The API key specified is not a valid OpenAI format; it won't work with the OpenAI-hosted model.
+2024-09-25 20:56:22,555 - INFO - Tester: Initiating chat with Developer: I would like you to work on a snake game that can be played in the terminal using the arrow keys. You will now output your code:
+2024-09-25 20:56:45,407 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 20:56:46,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-09-25 20:56:48,170 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

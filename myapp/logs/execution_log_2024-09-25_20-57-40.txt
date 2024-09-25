@@ -1,0 +1,4 @@
+2024-09-25 20:57:40,526 - INFO - Using OpenAI API Key: sk-pr***
+2024-09-25 20:57:40,540 - WARNING - The API key specified is not a valid OpenAI format; it won't work with the OpenAI-hosted model.
+2024-09-25 20:57:40,555 - WARNING - The API key specified is not a valid OpenAI format; it won't work with the OpenAI-hosted model.
+2024-09-25 20:57:40,556 - INFO - Tester: Initiating chat with Developer: I would like you to work on a snake game that can be played in the terminal using the arrow keys. You will now output your code:

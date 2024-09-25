@@ -1,0 +1,2 @@
+2024-09-25 20:52:33,083 - WARNING - The API key specified is not a valid OpenAI format; it won't work with the OpenAI-hosted model.
+2024-09-25 20:52:33,098 - WARNING - The API key specified is not a valid OpenAI format; it won't work with the OpenAI-hosted model.
